@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://via.placeholder.com/1200x300.png?text=Harneet+Kaur%27s+GitHub+Banner)
+![Banner](https://github.com/Harneetkaurdhami20/Harneetkaurdhami20/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 # Hello, I'm Harneet Kaur! 👋
 
